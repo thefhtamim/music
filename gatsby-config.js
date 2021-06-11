@@ -14,7 +14,7 @@ module.exports = {
   plugins: [
     // Add gatsby-theme-musician to your site
     {
-      resolve: "gatsby-theme-musician",
+      resolve: "the_fhtamim",
       // More info about the theme options:
       // https://github.com/ekafyi/gatsby-theme-musician/blob/master/docs/usage.md#theme-options
       options: {
