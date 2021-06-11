@@ -1,0 +1,7 @@
+navigation:
+  - text: Papers
+    url: "https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=mostapha+benhenda&as_publication=&as_ylo=2017&as_yhi=&hl=en&as_sdt=0%2C5"
+  - text: Blog
+    url: "/blog/"
+  - text: Contact
+    url: "#contact"
